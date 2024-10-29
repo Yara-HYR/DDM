@@ -1,4 +1,6 @@
-# Our code is modified from "Learning Invariant Representations for Reinforcement Learning without Reconstruction".
+# Seek Commonality but Preserve Differences: Dissected Dynamics Modeling for Multi-modal Visual RL
+
+## Our code is modified from "Learning Invariant Representations for Reinforcement Learning without Reconstruction".
 
 ## Requirements
 
