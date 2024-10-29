@@ -1,0 +1,23 @@
+name: carla0.9.13
+channels:
+  - defaults
+dependencies:
+  - python=3.6
+  - pytorch
+  - torchvision
+  - cudatoolkit=9.2
+  - absl-py
+  - pyparsing
+  - pip:
+    - termcolor
+    - opencv-python
+    - pillow==6.1
+    - scikit-image
+    - scikit-video
+    - tb-nightly
+    - tqdm
+    - imageio
+    - imageio-ffmpeg
+    - pygame
+    - networkx
+    - dotmap
